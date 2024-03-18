@@ -1,0 +1,13 @@
+form{
+    box-shadow: 6px 9px 6px 10px;
+
+}
+.list-group-item{
+    margin-right: 20px;
+}
+.check{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 455px;
+}
