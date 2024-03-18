@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MadjigueneDiop/TodoList-React-Js/static/css/main.6624d6f2.css",
+    "main.js": "/MadjigueneDiop/TodoList-React-Js/static/js/main.c4ea4601.js",
+    "static/js/453.59bb3b6d.chunk.js": "/MadjigueneDiop/TodoList-React-Js/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/MadjigueneDiop/TodoList-React-Js/index.html",
+    "main.6624d6f2.css.map": "/MadjigueneDiop/TodoList-React-Js/static/css/main.6624d6f2.css.map",
+    "main.c4ea4601.js.map": "/MadjigueneDiop/TodoList-React-Js/static/js/main.c4ea4601.js.map",
+    "453.59bb3b6d.chunk.js.map": "/MadjigueneDiop/TodoList-React-Js/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6624d6f2.css",
+    "static/js/main.c4ea4601.js"
+  ]
+}
